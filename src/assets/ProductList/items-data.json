@@ -1,0 +1,860 @@
+[
+    {
+        "current_stock": 10,
+        "image_urls": [
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+        ],
+        "is_active": true,
+        "item": {
+            "category": {
+                "category_id": 217,
+                "category_name": "Comb",
+                "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+            },
+            "created_at": "2023-07-21T13:25:26.427645+00:00",
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_currency": {
+                "short_code": "INR",
+                "symbol": "₹"
+            },
+            "item_modifiers": [],
+            "minimum_order_qty": 1
+        },
+        "item_code": "Comb003",
+        "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+        "item_name": "comb",
+        "item_variant": {
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "12faa106-4989-47d6-8059-ae5edc21f4a3"
+        },
+        "selling_price": 200,
+        "unit_price": 100,
+        "variant_id": "12faa106-4989-47d6-8059-ae5edc21f4a3",
+        "variant_image": "",
+        "variant_name": "Large/White",
+        "variant_sku": "Comb003-LARGE-WHITE"
+    },
+    {
+        "current_stock": 10,
+        "image_urls": [
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+        ],
+        "is_active": true,
+        "item": {
+            "category": {
+                "category_id": 217,
+                "category_name": "Comb",
+                "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+            },
+            "created_at": "2023-07-21T13:25:26.427645+00:00",
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_currency": {
+                "short_code": "INR",
+                "symbol": "₹"
+            },
+            "item_modifiers": [],
+            "minimum_order_qty": 1
+        },
+        "item_code": "Comb003",
+        "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+        "item_name": "comb",
+        "item_variant": {
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "da758eec-4099-43aa-bd9c-8d4511243e2e"
+        },
+        "selling_price": 200,
+        "unit_price": 100,
+        "variant_id": "da758eec-4099-43aa-bd9c-8d4511243e2e",
+        "variant_image": "",
+        "variant_name": "Large/Orange",
+        "variant_sku": "Comb003-LARGE-ORANGE"
+    },
+    {
+        "current_stock": 10,
+        "image_urls": [
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+        ],
+        "is_active": true,
+        "item": {
+            "category": {
+                "category_id": 217,
+                "category_name": "Comb",
+                "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+            },
+            "created_at": "2023-07-21T13:25:26.427645+00:00",
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_currency": {
+                "short_code": "INR",
+                "symbol": "₹"
+            },
+            "item_modifiers": [],
+            "minimum_order_qty": 1
+        },
+        "item_code": "Comb003",
+        "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+        "item_name": "comb",
+        "item_variant": {
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "fced8445-942e-4a2d-b4f0-8b48ddfe526b"
+        },
+        "selling_price": 200,
+        "unit_price": 100,
+        "variant_id": "fced8445-942e-4a2d-b4f0-8b48ddfe526b",
+        "variant_image": "",
+        "variant_name": "Medium/Orange",
+        "variant_sku": "Comb003-MEDIUM-ORANGE"
+    },
+    {
+        "current_stock": 10,
+        "image_urls": [
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+        ],
+        "is_active": true,
+        "item": {
+            "category": {
+                "category_id": 217,
+                "category_name": "Comb",
+                "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+            },
+            "created_at": "2023-07-21T13:25:26.427645+00:00",
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_currency": {
+                "short_code": "INR",
+                "symbol": "₹"
+            },
+            "item_modifiers": [],
+            "minimum_order_qty": 1
+        },
+        "item_code": "Comb003",
+        "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+        "item_name": "comb",
+        "item_variant": {
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "3d751036-7917-4a01-9464-38b004032fcd"
+        },
+        "selling_price": 200,
+        "unit_price": 100,
+        "variant_id": "3d751036-7917-4a01-9464-38b004032fcd",
+        "variant_image": "",
+        "variant_name": "Large/Yellow",
+        "variant_sku": "Comb003-LARGE-YELLOW"
+    },
+    {
+        "current_stock": 10,
+        "image_urls": [
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+        ],
+        "is_active": true,
+        "item": {
+            "category": {
+                "category_id": 217,
+                "category_name": "Comb",
+                "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+            },
+            "created_at": "2023-07-21T13:25:26.427645+00:00",
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_currency": {
+                "short_code": "INR",
+                "symbol": "₹"
+            },
+            "item_modifiers": [],
+            "minimum_order_qty": 1
+        },
+        "item_code": "Comb003",
+        "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+        "item_name": "comb",
+        "item_variant": {
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "f07134c2-36f9-4094-8b82-459db6864478"
+        },
+        "selling_price": 200,
+        "unit_price": 100,
+        "variant_id": "f07134c2-36f9-4094-8b82-459db6864478",
+        "variant_image": "",
+        "variant_name": "Medium/Yellow",
+        "variant_sku": "Comb003-MEDIUM-YELLOW"
+    },
+    {
+        "current_stock": 10,
+        "image_urls": [
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+        ],
+        "is_active": true,
+        "item": {
+            "category": {
+                "category_id": 217,
+                "category_name": "Comb",
+                "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+            },
+            "created_at": "2023-07-21T13:25:26.427645+00:00",
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_currency": {
+                "short_code": "INR",
+                "symbol": "₹"
+            },
+            "item_modifiers": [],
+            "minimum_order_qty": 1
+        },
+        "item_code": "Comb003",
+        "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+        "item_name": "comb",
+        "item_variant": {
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "b97a6709-d327-4ceb-abd2-22c98a8abdf8"
+        },
+        "selling_price": 200,
+        "unit_price": 100,
+        "variant_id": "b97a6709-d327-4ceb-abd2-22c98a8abdf8",
+        "variant_image": "",
+        "variant_name": "Small/Orange",
+        "variant_sku": "Comb003-SMALL-ORANGE"
+    },
+    {
+        "current_stock": 10,
+        "image_urls": [
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+        ],
+        "is_active": true,
+        "item": {
+            "category": {
+                "category_id": 217,
+                "category_name": "Comb",
+                "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+            },
+            "created_at": "2023-07-21T13:25:26.427645+00:00",
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_currency": {
+                "short_code": "INR",
+                "symbol": "₹"
+            },
+            "item_modifiers": [],
+            "minimum_order_qty": 1
+        },
+        "item_code": "Comb003",
+        "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+        "item_name": "comb",
+        "item_variant": {
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "255672ad-835a-48bd-96bd-cba325d30874"
+        },
+        "selling_price": 200,
+        "unit_price": 100,
+        "variant_id": "255672ad-835a-48bd-96bd-cba325d30874",
+        "variant_image": "",
+        "variant_name": "Small/White",
+        "variant_sku": "Comb003-SMALL-WHITE"
+    },
+    {
+        "current_stock": 10,
+        "image_urls": [
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+        ],
+        "is_active": true,
+        "item": {
+            "category": {
+                "category_id": 217,
+                "category_name": "Comb",
+                "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+            },
+            "created_at": "2023-07-21T13:25:26.427645+00:00",
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_currency": {
+                "short_code": "INR",
+                "symbol": "₹"
+            },
+            "item_modifiers": [],
+            "minimum_order_qty": 1
+        },
+        "item_code": "Comb003",
+        "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+        "item_name": "comb",
+        "item_variant": {
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "1836f01a-f350-4ce3-99ae-4d3bba0ba876"
+        },
+        "selling_price": 200,
+        "unit_price": 100,
+        "variant_id": "1836f01a-f350-4ce3-99ae-4d3bba0ba876",
+        "variant_image": "",
+        "variant_name": "Medium/White",
+        "variant_sku": "Comb003-MEDIUM-WHITE"
+    },
+    {
+        "current_stock": 10,
+        "image_urls": [
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+        ],
+        "is_active": true,
+        "item": {
+            "category": {
+                "category_id": 217,
+                "category_name": "Comb",
+                "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+            },
+            "created_at": "2023-07-21T13:25:26.427645+00:00",
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_currency": {
+                "short_code": "INR",
+                "symbol": "₹"
+            },
+            "item_modifiers": [],
+            "minimum_order_qty": 1
+        },
+        "item_code": "Comb003",
+        "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+        "item_name": "comb",
+        "item_variant": {
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "7349452c-fcc2-4e2d-934b-1a38c2f0a2f7"
+        },
+        "selling_price": 200,
+        "unit_price": 100,
+        "variant_id": "7349452c-fcc2-4e2d-934b-1a38c2f0a2f7",
+        "variant_image": "",
+        "variant_name": "Small/Yellow",
+        "variant_sku": "Comb003-SMALL-YELLOW"
+    },
+    {
+        "current_stock": 10,
+        "image_urls": [
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+            "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+        ],
+        "is_active": true,
+        "item": {
+            "category": {
+                "category_id": 217,
+                "category_name": "Comb",
+                "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+            },
+            "created_at": "2023-07-21T13:25:26.427645+00:00",
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_currency": {
+                "short_code": "INR",
+                "symbol": "₹"
+            },
+            "item_modifiers": [],
+            "minimum_order_qty": 1
+        },
+        "item_code": "Comb003",
+        "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+        "item_name": "comb",
+        "item_variant": {
+            "discount_text": null,
+            "discounted_price": null,
+            "id": "54312e30-f447-4a20-b5e3-1b1c173e86b7"
+        },
+        "selling_price": 200,
+        "unit_price": 100,
+        "variant_id": "54312e30-f447-4a20-b5e3-1b1c173e86b7",
+        "variant_image": "",
+        "variant_name": "Extra large/Yellow",
+        "variant_sku": "Comb003-EXTRALARGE-YELLOW"
+    },
+        {
+            "current_stock": 10,
+            "image_urls": [
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+            ],
+            "is_active": true,
+            "item": {
+                "category": {
+                    "category_id": 217,
+                    "category_name": "Comb",
+                    "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+                },
+                "created_at": "2023-07-21T13:25:26.427645+00:00",
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "360f28e3-2cec-473f-918e-f3bead679729",
+                "item_currency": {
+                    "short_code": "INR",
+                    "symbol": "₹"
+                },
+                "item_modifiers": [],
+                "minimum_order_qty": 1
+            },
+            "item_code": "Comb003",
+            "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_name": "comb",
+            "item_variant": {
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "6b9b5582-668b-480b-898d-add850d8c9a7"
+            },
+            "selling_price": 300,
+            "unit_price": 200,
+            "variant_id": "6b9b5582-668b-480b-898d-add850d8c9a7",
+            "variant_image": "",
+            "variant_name": "XXL",
+            "variant_sku": "Comb002-XXL"
+        },
+        {
+            "current_stock": 10,
+            "image_urls": [
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+            ],
+            "is_active": true,
+            "item": {
+                "category": {
+                    "category_id": 217,
+                    "category_name": "Comb",
+                    "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+                },
+                "created_at": "2023-07-21T13:25:26.427645+00:00",
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "360f28e3-2cec-473f-918e-f3bead679729",
+                "item_currency": {
+                    "short_code": "INR",
+                    "symbol": "₹"
+                },
+                "item_modifiers": [],
+                "minimum_order_qty": 1
+            },
+            "item_code": "Comb003",
+            "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_name": "comb",
+            "item_variant": {
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "d5c75127-3800-422d-a601-8387d34b3834"
+            },
+            "selling_price": 300,
+            "unit_price": 200,
+            "variant_id": "d5c75127-3800-422d-a601-8387d34b3834",
+            "variant_image": "",
+            "variant_name": "Extra large",
+            "variant_sku": "Comb002-EXTRALARGE"
+        },
+        {
+            "current_stock": 8,
+            "image_urls": [
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+            ],
+            "is_active": true,
+            "item": {
+                "category": {
+                    "category_id": 217,
+                    "category_name": "Comb",
+                    "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+                },
+                "created_at": "2023-07-21T13:25:26.427645+00:00",
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "360f28e3-2cec-473f-918e-f3bead679729",
+                "item_currency": {
+                    "short_code": "INR",
+                    "symbol": "₹"
+                },
+                "item_modifiers": [],
+                "minimum_order_qty": 1
+            },
+            "item_code": "Comb003",
+            "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_name": "comb",
+            "item_variant": {
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "fb19cf69-6936-4580-ab5d-d46216df428b"
+            },
+            "selling_price": 300,
+            "unit_price": 200,
+            "variant_id": "fb19cf69-6936-4580-ab5d-d46216df428b",
+            "variant_image": "",
+            "variant_name": "Large",
+            "variant_sku": "Comb002-LARGE"
+        },
+        {
+            "current_stock": 8,
+            "image_urls": [
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/aq6p3w-1.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/07be8l-women-s-burgundy-solid-jogger-507375-1665663611-1.jpg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ip7myv-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qrfy60-6111392.jpg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/2dfz4c-958243_5064.jpg"
+            ],
+            "is_active": true,
+            "item": {
+                "category": {
+                    "category_id": 217,
+                    "category_name": "Comb",
+                    "id": "f9245c4f-0dfd-4e5b-8591-d8db2540baf1"
+                },
+                "created_at": "2023-07-21T13:25:26.427645+00:00",
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "360f28e3-2cec-473f-918e-f3bead679729",
+                "item_currency": {
+                    "short_code": "INR",
+                    "symbol": "₹"
+                },
+                "item_modifiers": [],
+                "minimum_order_qty": 1
+            },
+            "item_code": "Comb003",
+            "item_id": "360f28e3-2cec-473f-918e-f3bead679729",
+            "item_name": "comb",
+            "item_variant": {
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "13f695b7-05c5-40af-9774-56900d695e8a"
+            },
+            "selling_price": 300,
+            "unit_price": 200,
+            "variant_id": "13f695b7-05c5-40af-9774-56900d695e8a",
+            "variant_image": "",
+            "variant_name": "Medium",
+            "variant_sku": "Comb002-MEDIUM"
+        },
+        {
+            "current_stock": 10,
+            "image_urls": [
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qn49nv-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/bmqm80-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ei3c6i-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/dedfgn-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png"
+            ],
+            "is_active": true,
+            "item": {
+                "category": {
+                    "category_id": 183,
+                    "category_name": "Collars",
+                    "id": "bb9a20c7-8f7b-445b-8b47-6c5074058eb1"
+                },
+                "created_at": "2023-07-19T11:25:36.115744+00:00",
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+                "item_currency": {
+                    "short_code": "INR",
+                    "symbol": "₹"
+                },
+                "item_modifiers": [
+                    {
+                        "id": "da48cb41-3ade-4e37-9311-3c1f993d74c5"
+                    }
+                ],
+                "minimum_order_qty": 1
+            },
+            "item_code": "HUFTcatcollar001",
+            "item_id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+            "item_name": "HUFT Meowvelous - Breakaway Cat Collars - Pink & Sea Blue",
+            "item_variant": {
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "f85d38f3-e04a-434b-bc78-c87faac729f4"
+            },
+            "selling_price": 400,
+            "unit_price": 300,
+            "variant_id": "f85d38f3-e04a-434b-bc78-c87faac729f4",
+            "variant_image": "",
+            "variant_name": "XXL/Green/34",
+            "variant_sku": "HUFTcatcollar001-XXL-GREEN-34"
+        },
+        {
+            "current_stock": 10,
+            "image_urls": [
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qn49nv-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/bmqm80-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ei3c6i-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/dedfgn-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png"
+            ],
+            "is_active": true,
+            "item": {
+                "category": {
+                    "category_id": 183,
+                    "category_name": "Collars",
+                    "id": "bb9a20c7-8f7b-445b-8b47-6c5074058eb1"
+                },
+                "created_at": "2023-07-19T11:25:36.115744+00:00",
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+                "item_currency": {
+                    "short_code": "INR",
+                    "symbol": "₹"
+                },
+                "item_modifiers": [
+                    {
+                        "id": "da48cb41-3ade-4e37-9311-3c1f993d74c5"
+                    }
+                ],
+                "minimum_order_qty": 1
+            },
+            "item_code": "HUFTcatcollar001",
+            "item_id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+            "item_name": "HUFT Meowvelous - Breakaway Cat Collars - Pink & Sea Blue",
+            "item_variant": {
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "e42e51b8-4afe-4e79-88de-1334ffcef24b"
+            },
+            "selling_price": 400,
+            "unit_price": 300,
+            "variant_id": "e42e51b8-4afe-4e79-88de-1334ffcef24b",
+            "variant_image": "",
+            "variant_name": "XXL/Yellow/36",
+            "variant_sku": "HUFTcatcollar001-XXL-YELLOW-36"
+        },
+        {
+            "current_stock": 10,
+            "image_urls": [
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qn49nv-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/bmqm80-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ei3c6i-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/dedfgn-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png"
+            ],
+            "is_active": true,
+            "item": {
+                "category": {
+                    "category_id": 183,
+                    "category_name": "Collars",
+                    "id": "bb9a20c7-8f7b-445b-8b47-6c5074058eb1"
+                },
+                "created_at": "2023-07-19T11:25:36.115744+00:00",
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+                "item_currency": {
+                    "short_code": "INR",
+                    "symbol": "₹"
+                },
+                "item_modifiers": [
+                    {
+                        "id": "da48cb41-3ade-4e37-9311-3c1f993d74c5"
+                    }
+                ],
+                "minimum_order_qty": 1
+            },
+            "item_code": "HUFTcatcollar001",
+            "item_id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+            "item_name": "HUFT Meowvelous - Breakaway Cat Collars - Pink & Sea Blue",
+            "item_variant": {
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "ae2b7227-684c-4470-bb52-7932c01aa756"
+            },
+            "selling_price": 400,
+            "unit_price": 300,
+            "variant_id": "ae2b7227-684c-4470-bb52-7932c01aa756",
+            "variant_image": "",
+            "variant_name": "XXL/Green/36",
+            "variant_sku": "HUFTcatcollar001-XXL-GREEN-36"
+        },
+        {
+            "current_stock": 10,
+            "image_urls": [
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qn49nv-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/bmqm80-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ei3c6i-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/dedfgn-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png"
+            ],
+            "is_active": true,
+            "item": {
+                "category": {
+                    "category_id": 183,
+                    "category_name": "Collars",
+                    "id": "bb9a20c7-8f7b-445b-8b47-6c5074058eb1"
+                },
+                "created_at": "2023-07-19T11:25:36.115744+00:00",
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+                "item_currency": {
+                    "short_code": "INR",
+                    "symbol": "₹"
+                },
+                "item_modifiers": [
+                    {
+                        "id": "da48cb41-3ade-4e37-9311-3c1f993d74c5"
+                    }
+                ],
+                "minimum_order_qty": 1
+            },
+            "item_code": "HUFTcatcollar001",
+            "item_id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+            "item_name": "HUFT Meowvelous - Breakaway Cat Collars - Pink & Sea Blue",
+            "item_variant": {
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "0e5ca149-2ae9-4c4c-8c4b-5222080e4200"
+            },
+            "selling_price": 400,
+            "unit_price": 300,
+            "variant_id": "0e5ca149-2ae9-4c4c-8c4b-5222080e4200",
+            "variant_image": "",
+            "variant_name": "XXL/Yellow/34",
+            "variant_sku": "HUFTcatcollar001-XXL-YELLOW-34"
+        },
+        {
+            "current_stock": 10,
+            "image_urls": [
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qn49nv-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/bmqm80-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ei3c6i-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/dedfgn-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png"
+            ],
+            "is_active": true,
+            "item": {
+                "category": {
+                    "category_id": 183,
+                    "category_name": "Collars",
+                    "id": "bb9a20c7-8f7b-445b-8b47-6c5074058eb1"
+                },
+                "created_at": "2023-07-19T11:25:36.115744+00:00",
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+                "item_currency": {
+                    "short_code": "INR",
+                    "symbol": "₹"
+                },
+                "item_modifiers": [
+                    {
+                        "id": "da48cb41-3ade-4e37-9311-3c1f993d74c5"
+                    }
+                ],
+                "minimum_order_qty": 1
+            },
+            "item_code": "HUFTcatcollar001",
+            "item_id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+            "item_name": "HUFT Meowvelous - Breakaway Cat Collars - Pink & Sea Blue",
+            "item_variant": {
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "08920a47-e459-414f-ac10-996621878118"
+            },
+            "selling_price": 400,
+            "unit_price": 300,
+            "variant_id": "08920a47-e459-414f-ac10-996621878118",
+            "variant_image": "",
+            "variant_name": "XXL/Green/32",
+            "variant_sku": "HUFTcatcollar001-XXL-GREEN-32"
+        },
+        {
+            "current_stock": 9,
+            "image_urls": [
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/qn49nv-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/bmqm80-1000_F_442229026_rYNMqfahgMEkKnhmh15AUm38jY50pEHg.jpeg",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/ei3c6i-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png",
+                "https://ticketeaz.s3.ap-south-1.amazonaws.com/prod/Item/4gvljg/dedfgn-DSC_4450_9693bdc9-8e12-41f8-b690-b83a064f9b67.png"
+            ],
+            "is_active": true,
+            "item": {
+                "category": {
+                    "category_id": 183,
+                    "category_name": "Collars",
+                    "id": "bb9a20c7-8f7b-445b-8b47-6c5074058eb1"
+                },
+                "created_at": "2023-07-19T11:25:36.115744+00:00",
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+                "item_currency": {
+                    "short_code": "INR",
+                    "symbol": "₹"
+                },
+                "item_modifiers": [
+                    {
+                        "id": "da48cb41-3ade-4e37-9311-3c1f993d74c5"
+                    }
+                ],
+                "minimum_order_qty": 1
+            },
+            "item_code": "HUFTcatcollar001",
+            "item_id": "2fa249c3-3ade-4cf1-8430-5ee5b6c6d722",
+            "item_name": "HUFT Meowvelous - Breakaway Cat Collars - Pink & Sea Blue",
+            "item_variant": {
+                "discount_text": null,
+                "discounted_price": null,
+                "id": "b3f8f47e-0062-4515-b32a-fbabde61f1b7"
+            },
+            "selling_price": 400,
+            "unit_price": 300,
+            "variant_id": "b3f8f47e-0062-4515-b32a-fbabde61f1b7",
+            "variant_image": "",
+            "variant_name": "XXL/Green/30",
+            "variant_sku": "HUFTcatcollar001-XXL-GREEN-30"
+        }
+]

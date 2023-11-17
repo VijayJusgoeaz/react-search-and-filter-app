@@ -1,21 +1,12 @@
-import {
-  Divider,
-  Form,
-  Input,
-  Image,
-  Tag,
-  Slider,
-  Button,
-  Table,
-  Checkbox,
-} from "antd";
+import { Divider, Form } from "antd";
 import { useEffect, useState } from "react";
 import products from "../../../../assets/ProductList/items-data.json";
-import { Typography } from "antd";
 import SearchItem from "../../../Functions/SearchFun";
-import { ColumnsType } from "antd/es/table";
-
-const { Text } = Typography;
+import ProductTable from "../Comp/ProdTable";
+import SubmitBtn from "../Comp/SubmitBtn";
+import SearchInputField from "../Comp/SearchInputField";
+import SliderInput from "../Comp/SliderInput";
+import CategoryInput from "../Comp/CategoryInput";
 
 const HomePage = () => {
   type ItemType = {
@@ -32,55 +23,30 @@ const HomePage = () => {
     };
   };
 
-  type FieldType = {
-    search?: string;
-    priceInput?: string;
-    categoryList?: [];
-  };
-
   const [productList, setProductList] = useState<ItemType[]>(products);
   const [categoryList, setCategoryList] = useState<any[]>([]);
   const [selectedcategoryList, setSelectedcategoryList] = useState<string[]>(
     []
   );
 
-  const columns: ColumnsType<ItemType> = [
-    {
-      title: "Item Name",
-      dataIndex: "item_name",
-      key: "name",
-    },
-    {
-      title: "Price",
-      dataIndex: "selling_price",
-      key: "price",
-    },
-    {
-      title: "Category",
-      render: (item) => item.item.category.category_name,
-      key: "category",
-    },
-  ];
-
   var categoryListTemp: any[] = [];
 
+  // get category list from json data
   function getAllCategory() {
     productList.map((item: ItemType) => {
       categoryListTemp.push(item.item.category.category_name);
-      console.log(categoryListTemp);
     });
   }
 
+  // get category list from json data and remove dupliate values
   useEffect(() => {
     getAllCategory();
-    console.log("categoryList", categoryList);
     const uniqueNumbers = [...new Set(categoryListTemp)];
     setCategoryList(uniqueNumbers);
   }, []);
 
   const handleSearch = (e: any) => {
-    console.log(e.categoryList);
-
+    // call custom search algorithm
     var temp = SearchItem({
       itemList: products,
       searchTxt: e.search,
@@ -90,6 +56,7 @@ const HomePage = () => {
     setProductList(temp);
   };
 
+  // to keep track of category list and check box
   const handleCategoryChange = (e: any) => {
     if (e.target.checked) {
       setSelectedcategoryList([...selectedcategoryList, e.target.value]);
@@ -97,9 +64,6 @@ const HomePage = () => {
       setSelectedcategoryList(
         selectedcategoryList.filter((item) => item != e.target.value)
       );
-      // selectedcategoryList = selectedcategoryList.filter(
-      //   (item) => item != e.target.value
-      // );
     }
   };
 
@@ -110,57 +74,25 @@ const HomePage = () => {
           {/* Form */}
           <div className="m-kSpace_10">
             <div className="my-kSpace_10">Search for products</div>
+
             <Form onFinish={handleSearch} initialValues={{ priceInput: 200 }}>
               {/* Search Input Field */}
-              <Form.Item<FieldType>
-                name="search"
-                // rules={[{ required: true, message: "Please enter a value" }]}
-              >
-                <Input
-                  placeholder="Search any product..."
-                  onChange={(e) => {
-                    // console.log(e.target.value);
-                  }}
-                />
-              </Form.Item>
-              {/* Slider */}
-              <Text>Set Minimum Price range</Text>
-              <Form.Item<FieldType> name="priceInput">
-                <Slider max={1000} />
-              </Form.Item>
+              <SearchInputField />
+
+              {/* Price Ranger Selector Slider Input */}
+              <SliderInput />
+
               {/* Category Field */}
-              <Text>Select category</Text>
-              <Form.Item<FieldType> name="categoryList">
-                <div className="my-kSpace_10 ">
-                  {categoryList.map((item: string, index: number) => {
-                    return (
-                      <Checkbox
-                        checked={
-                          selectedcategoryList.includes(item) ? true : false
-                        }
-                        key={index}
-                        value={item}
-                        onChange={handleCategoryChange}
-                      >
-                        {item}
-                      </Checkbox>
-                    );
-                  })}
-                </div>
-              </Form.Item>
+              <CategoryInput
+                categoryList={categoryList}
+                selectedcategoryList={selectedcategoryList}
+                handleCategoryChange={()=>handleCategoryChange}
+              />
               {/* Search Button */}
-              <Form.Item>
-                <Button
-                  type="primary"
-                  htmlType="submit"
-                  className="bg-sky-500 w-full hover:!bg-sky-500 my-kSpace_10"
-                >
-                  Search
-                </Button>
-              </Form.Item>
+              <SubmitBtn />
             </Form>
           </div>
-          {/* Products List Render */}
+          {/* Rendering Products List  */}
           <div>
             <Divider>
               <div className="text-kFontSmall text-slate-400 opacity-70 font-light">
@@ -168,14 +100,8 @@ const HomePage = () => {
               </div>
             </Divider>
           </div>
-          {/* Products Map */}
-          <div className="">
-            <Table
-              dataSource={productList}
-              columns={columns}
-              pagination={false}
-            />
-          </div>
+          {/* Products Table */}
+          <ProductTable productList={productList} />
         </div>
       </div>
     </div>

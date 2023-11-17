@@ -42,12 +42,10 @@ function SearchItem({
   }
 
   function search_by_itemPrice(item: ItemType) {
-    console.log("itemPrice", itemPrice);
     if (itemPrice) {
       if (item.selling_price >= itemPrice) {
         return true;
       } else {
-        console.log("Preice is larger", item.selling_price);
         return false;
       }
     } else {
@@ -56,9 +54,7 @@ function SearchItem({
   }
 
   function search_by_categoryName(item: ItemType) {
-    console.log("category", category);
     if (category && category.length > 0) {
-      console.log("Present");
       return category.includes(item.item.category.category_name);
     } else {
       return true;
